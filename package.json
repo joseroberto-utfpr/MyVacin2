@@ -1,0 +1,39 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "expo-linear-gradient": "^11.4.0",
+    "react": "17.0.*",
+    "react-dom": "17.0.*",
+    "react-native": "^0.70.1",
+    "react-native-linear-gradient": "2.6.2",
+    "react-native-web": "0.18.*",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ],
+    "rnpm": {
+      "assets": [
+        "./assets/fonts/Averia"
+      ]
+    }
+  }
+}
