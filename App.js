@@ -48,7 +48,7 @@ const App = () => {
             </View>
 
             <Text style={styles.textTitulo}>
-              Controle suas vacinas e fique seguro
+              Controle suas vacinas e fique seguro V2
             </Text>
 
             <View style={styles.inputs}>
